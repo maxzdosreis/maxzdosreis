@@ -1,14 +1,14 @@
 # Hi, I'm Max!
 
-- Software Engineering Student at the University LaSalle - UniLaSalle
-- Passionate about programming, data science and security
-
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxzdosreis)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxzreis/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_maxzr_/)
 
 ## About Me
-I'm a backend developer.
+- I'm a Java backend developer, improving my frontend knowledge with HTML, CSS, JavaScript and React.
+- Software Engineering Student at the University LaSalle - UniLaSalle
+- Passionate about programming, data science and security
+
 
 ### Technologies and tools
 
