@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_maxzr_/)
 
 ## About Me
-- I'm a Java backend developer, improving my frontend knowledge with HTML, CSS, JavaScript and React.
+- I'm a backend developer, improving my frontend knowledge with HTML, CSS, JavaScript and React.
 - Software Engineering Student at the University LaSalle - UniLaSalle
 - Passionate about programming, data science and security
 
