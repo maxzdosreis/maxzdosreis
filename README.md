@@ -22,3 +22,14 @@
 ![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JWT Badge](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+### Statistics
+
+<p>
+  <img align="left" alt="GitHub Stats" height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=maxzdosreis&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" /> 
+  <img align="left" 
+    alt="Linguagens mais usadas"
+    height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxzdosreis&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" /> 
+</p>
